@@ -1,16 +1,27 @@
-## Hi there 👋
+## Olá! 👋 Eu sou o Enzo Caeiro
 
-<!--
-**EnzoCaeiro/EnzoCaeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software, localizado em Brasília, com forte interesse em desenvolvimento e crescimento focado na área de dados. Atualmente, atuo no setor público construindo pipelines, painéis e automatizando processos de análise de informações.
 
-Here are some ideas to get you started:
+### 🔭 O que eu faço
+- **Estágio em Análise de Dados** na Controladoria-Geral da União (CGU).
+- **Projetos Recentes:** 
+  - Desenvolvimento de sistemas automatizados de monitoramento de anomalias financeiras utilizando Python e Power Automate, com alertas via webhook (MS Teams).
+  - Criação de pipelines de web scraping com Python e Selenium para extração de registros de contratações públicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens e Bancos de Dados:** Python (Pandas, Selenium), SQL Server, T-SQL (Otimização e Window Functions).
+- **Análise e Automação:** Power BI (Hierarquias, Matrizes), Excel, Power Automate.
+- **Outros Conhecimentos:** Metodologias de gerenciamento de projetos (PMBOK).
+
+### 🌱 O que estou buscando e aprendendo
+- Aprofundamento contínuo no ecossistema de dados, focado em crescimento técnico na área.
+- Estudos voltados para concursos públicos no setor bancário/TI (Banco do Brasil, Caixa Econômica Federal).
+
+### ⚡ Curiosidades e Interesses
+- 💻 **Entusiasta de Hardware:** Acompanho de perto o mercado de hardware, benchmarks, desempenho térmico e arquitetura de CPUs, GPUs e NPUs.
+- 🎮 **Gaming:** Nas horas vagas, você pode me encontrar jogando *Rocket League*, *CS2*, *Valorant*, *Minecraft* ou mergulhando em RPGs como *Persona 3 Reload* e *Metaphor: ReFantazio*.
+- 🧑‍ **Fun fact:** Tenho uma rotina extremamente otimizada e específica para cuidar do volume e definição do meu cabelo cacheado 3B/3C!
+
+### 📫 Como me encontrar
+- [LinkedIn](https://br.linkedin.com/in/enzocaeiro)
+- [E-mail](Enzomouracaeiro9@gmail.com)
