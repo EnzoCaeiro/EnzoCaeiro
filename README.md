@@ -15,12 +15,6 @@ Sou estudante de Engenharia de Software, localizado em Brasília, com forte inte
 
 ### 🌱 O que estou buscando e aprendendo
 - Aprofundamento contínuo no ecossistema de dados, focado em crescimento técnico na área.
-- Estudos voltados para concursos públicos no setor bancário/TI (Banco do Brasil, Caixa Econômica Federal).
-
-### ⚡ Curiosidades e Interesses
-- 💻 **Entusiasta de Hardware:** Acompanho de perto o mercado de hardware, benchmarks, desempenho térmico e arquitetura de CPUs, GPUs e NPUs.
-- 🎮 **Gaming:** Nas horas vagas, você pode me encontrar jogando *Rocket League*, *CS2*, *Valorant*, *Minecraft* ou mergulhando em RPGs como *Persona 3 Reload* e *Metaphor: ReFantazio*.
-- 🧑‍ **Fun fact:** Tenho uma rotina extremamente otimizada e específica para cuidar do volume e definição do meu cabelo cacheado 3B/3C!
 
 ### 📫 Como me encontrar
 - [LinkedIn](https://br.linkedin.com/in/enzocaeiro)
