@@ -1,4 +1,4 @@
-## Olá! 👋 Eu sou o Enzo Caeiro
+## Olá! 👋
 
 Sou estudante de Engenharia de Software, localizado em Brasília, com forte interesse em desenvolvimento e crescimento focado na área de dados. Atualmente, atuo no setor público construindo pipelines, painéis e automatizando processos de análise de informações.
 
